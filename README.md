@@ -1,4 +1,4 @@
 GitIgnores
 ==========
 
-Collection of .gitignore files that I use regularly.
+A collection of .gitignore files that I use regularly.

@@ -1,0 +1,13 @@
+# system / editor files
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+*.esproj
+*.project
+*.buildpath
+
+# wordpress files
+wp-content/uploads/
+readme.html
+license.txt
