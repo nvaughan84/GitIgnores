@@ -6,6 +6,7 @@ Thumbs.db
 *.esproj
 *.project
 *.buildpath
+.settings
 
 # wordpress files
 wp-content/uploads/
